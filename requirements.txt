@@ -1,0 +1,13 @@
+datasets
+google-colab
+langchain
+matplotlib
+numpy
+pandas
+scikit-fuzzy
+scikit-learn
+seaborn
+torch
+torch-xla
+tqdm
+transformers
